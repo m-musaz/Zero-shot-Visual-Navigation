@@ -1,5 +1,9 @@
 # Thinking in 360°: Zero-Shot Vision-and-Language Navigation
 
+A browser-based demo is available for visualizing navigation behavior and agent reasoning:
+
+🔗 https://nav-vision-sproj.vercel.app
+
 This repository contains the implementation and system design for **Thinking in 360°**, a zero-shot Vision-and-Language Navigation (VLN) framework that enables an embodied agent to follow natural language instructions in **photorealistic indoor environments** without finetuning or task-specific visual training.
 
 The project is built and evaluated on the **Room-to-Room (R2R)** benchmark using the **Matterport3D** simulator.

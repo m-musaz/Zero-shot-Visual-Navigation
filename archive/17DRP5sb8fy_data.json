@@ -1,0 +1,716 @@
+[
+    {
+        "distance": 6.06,
+        "scan": "17DRP5sb8fy",
+        "path_id": 3399,
+        "path": [
+            "10c252c90fa24ef3b698c6f54d984c5c",
+            "77a1a11978b04e9cbf74914c98578ab8",
+            "b185432bf33645aca813ac2a961b4140",
+            "5e9f4f8654574e699480e90ecdd150c8",
+            "08c774f20c984008882da2b8547850eb",
+            "da5fa65c13e643719a20cbb818c9a85d"
+        ],
+        "heading": 3.506,
+        "instructions": [
+            "Walk past the large picture and chair. Walk past the dining room table turn right into the hallway and stop. ",
+            "Go straight and pass the bar with the chair/stools then pass the clear glass table with the white chairs and turn right. Wait in that hallway. ",
+            "With the painting of the mermaid towards your right, head straight. After passing the counter towards your right, turn right and wait. "
+        ],
+        "goals": [
+            "I am here inside the room and want to navigate to the Hallway.",
+            "I am standing in the hallway and want to navigate to a point beyond the clear glass table with the white chairs.",
+            "I am near the painting of the mermaid and want to navigate to the Hallway past the Counter on the right."
+        ]
+    },
+    {
+        "distance": 6.16,
+        "scan": "17DRP5sb8fy",
+        "path_id": 5894,
+        "path": [
+            "db145474a5fa476d95c2cc7f09e7c83a",
+            "5b9b2794954e4694a45fc424a8643081",
+            "51857544c192476faebf212acb1b3d90",
+            "1e86968849944444b66d9537efb5da9e",
+            "cb66d4266148455bbddf5d059a483711"
+        ],
+        "heading": 4.61,
+        "instructions": [
+            "Walk to the foot of the bed and to a little sitting area.  Go through the door on the left side.  Stop once you have stepped into the bathroom. ",
+            "Walk past the television and around the bed and stop across from the shower. ",
+            "Turn left and walk to the end of the bed. Walk through the door at the end of the bed. Turn left and take two steps into the bathroom and stop. "
+        ],
+        "goals": [
+            "I am in the bedroom and want to navigate to the bathroom area.",
+            "I am in the bedroom and want to navigate to the bathroom shower area.",
+            "I am in the bedroom and want to navigate to the bathroom entrance."
+        ]
+    },
+    {
+        "distance": 8.83,
+        "scan": "17DRP5sb8fy",
+        "path_id": 2505,
+        "path": [
+            "ee59d6b5e5da4def9fe85a8ba94ecf25",
+            "5e9f4f8654574e699480e90ecdd150c8",
+            "b185432bf33645aca813ac2a961b4140",
+            "77a1a11978b04e9cbf74914c98578ab8",
+            "10c252c90fa24ef3b698c6f54d984c5c",
+            "0f37bd0737e349de9d536263a4bdd60d",
+            "e34dcf54d26a4a95869cc8a0c01cd2be"
+        ],
+        "heading": 0.666,
+        "instructions": [
+            "Go straight and slightly right toward the glass table and white chairs. Pass the table and head straight, pass the couches and go into the room straight ahead. Wait by the bed. ",
+            "Go into the dining room, passed at the glass wall on the right, go straight into the bedroom doorway and stop. ",
+            "Walk forward pas the dining table, and living room. Enter the bedroom at the end of the hall. Stop once you pass the door. "
+        ],
+        "goals": [
+            "I am in the living room and want to navigate to the bedroom by passing the glass table, white chairs, couches and then the bed.",
+            "I am in the dining room and want to navigate to the bedroom by passing the glass wall and then stop outside the bedroom doorway.",
+            "I am in the hallway and want to navigate to the bedroom at the end of the hall and stop once I pass the door."
+        ]
+    },
+    {
+        "distance": 7.68,
+        "scan": "17DRP5sb8fy",
+        "path_id": 6066,
+        "path": [
+            "e693b5de8ad84d4cb61a79ece2e66d11",
+            "28db29e8c72c4a68bfdf5bb2b454443d",
+            "558ba0761bf24428b9cf91e60333ea25",
+            "1a41339ece1846eda6a924cdb4c417dd",
+            "08c774f20c984008882da2b8547850eb",
+            "5e9f4f8654574e699480e90ecdd150c8"
+        ],
+        "heading": 0.922,
+        "instructions": [
+            "Exit the bathroom, cross the room passed the black doors on the right and then go to the right, passed the room with white counters in it, then go to the spot between the glass wall and the third counter chair. ",
+            "Exit the bathroom. Go straight and slightly right to continue down the hallway. Wait near the bar with the stools/chairs. ",
+            "Exit the bathroom and go to the table. Stop near the television. "
+        ],
+        "goals": [
+            "I am in the bathroom and want to navigate to the spot between the glass wall and the third counter chair past the room with white counters.",
+            "I am in the bathroom and want to navigate to the bar with stools/chairs in the hallway.",
+            "I am in the bathroom and want to navigate to the television at the table."
+        ]
+    },
+    {
+        "distance": 5.3,
+        "scan": "17DRP5sb8fy",
+        "path_id": 2571,
+        "path": [
+            "d65b6505904448d1940e679c9a098047",
+            "701f7128272a4bb2acd9dbd89b5cdf6f",
+            "c429b363fd3145fe8a7631bbe9644066",
+            "1a41339ece1846eda6a924cdb4c417dd",
+            "08c774f20c984008882da2b8547850eb"
+        ],
+        "heading": 1.616,
+        "instructions": [
+            "Go stand behind the middle kitchen island chair. ",
+            "Walk across living room to kitchen bar. Stop at bar stools. ",
+            "Walk past the dining table and take a right. Stop once you pass the second stool on the left. "
+        ],
+        "goals": [
+            "I am currently in the kitchen and want to be on the other side of the kitchen island.",
+            "I am currently in the living room and want to be at the kitchen bar.",
+            "I am on the right side of the dining table and want to be at the hall or passageway."
+        ]
+    },
+    {
+        "distance": 6.09,
+        "scan": "17DRP5sb8fy",
+        "path_id": 3546,
+        "path": [
+            "3577de361e1a46b1be544d37731bfde6",
+            "6800f98e9e67463e9928a4253253bc2f",
+            "77a1a11978b04e9cbf74914c98578ab8",
+            "b185432bf33645aca813ac2a961b4140",
+            "5e9f4f8654574e699480e90ecdd150c8"
+        ],
+        "heading": 3.33,
+        "instructions": [
+            "Walk behind the couch and turn left.  Stop beside the middle stool. ",
+            "Walk behind the back of the sofa and turn left.  walk into the dining room area and stand next to the chair. ",
+            "Go straight passed the couch, turn left and go straight and wait near the counter. "
+        ],
+        "goals": [
+            "I am at the living room and I want to go to the space next to the middle stool.",
+            "I am at the living room and I want to go to the dining room and stand next to the chair.",
+            "I am at the living room and I want to go to the counter."
+        ]
+    },
+    {
+        "distance": 5.93,
+        "scan": "17DRP5sb8fy",
+        "path_id": 3827,
+        "path": [
+            "d65b6505904448d1940e679c9a098047",
+            "701f7128272a4bb2acd9dbd89b5cdf6f",
+            "c429b363fd3145fe8a7631bbe9644066",
+            "1a41339ece1846eda6a924cdb4c417dd",
+            "08c774f20c984008882da2b8547850eb",
+            "5e9f4f8654574e699480e90ecdd150c8"
+        ],
+        "heading": 1.616,
+        "instructions": [
+            "Walk straight, and when you reach the end of the table turn right.  Wait by the brass chairs. ",
+            "Turn right. Take another right after the white chairs and wait next to the counter with the bar stools. ",
+            "Turn right. Go across the room and stop at the middle bar stool. "
+        ],
+        "goals": [
+            "I am here and want to go to the end of the room past the brass chairs.",
+            "I am here and want to go to the area next to the counter with the bar stools.",
+            "I am here and want to go to the middle bar stool in the room."
+        ]
+    },
+    {
+        "distance": 7.38,
+        "scan": "17DRP5sb8fy",
+        "path_id": 681,
+        "path": [
+            "5e9f4f8654574e699480e90ecdd150c8",
+            "b185432bf33645aca813ac2a961b4140",
+            "77a1a11978b04e9cbf74914c98578ab8",
+            "10c252c90fa24ef3b698c6f54d984c5c",
+            "0f37bd0737e349de9d536263a4bdd60d",
+            "e34dcf54d26a4a95869cc8a0c01cd2be",
+            "3a6d2322867f40d9a3d2758ab88df288"
+        ],
+        "heading": 1.516,
+        "instructions": [
+            "Walk straight through the living room with the couch on your right. Go through the doorway into the bedroom at the end of the walkway. In the bedroom take a left and stop in the entry way just before the rug. ",
+            "Walk through the living room area passed the curved couch.  Walk through the doorway and into the bedroom area. Walk passed the foot of the bed and into the lounge area with the sofa. ",
+            "Walk out of the dining area and walk straight into the bedroom that's past the living room. When in the bedroom take a left into the sitting area in the bedroom. Wait in the sitting area. "
+        ],
+        "goals": [
+            "I am in the living room and want to navigate to the bedroom.",
+            "I am in the living room and want to navigate to the lounge area.",
+            "I am in the dining area and want to navigate to the sitting area in the bedroom."
+        ]
+    },
+    {
+        "distance": 7.09,
+        "scan": "17DRP5sb8fy",
+        "path_id": 338,
+        "path": [
+            "30c97842da204e6290ac32904c924e17",
+            "1e86968849944444b66d9537efb5da9e",
+            "cb66d4266148455bbddf5d059a483711",
+            "8ccf449f599a4cd88648e1d0ff39fdd0",
+            "c341c46acf7044d1a712d622cbc94a27"
+        ],
+        "heading": 0.462,
+        "instructions": [
+            "Exit the bedroom, enter the bathroom, wait at the toilet. ",
+            "Walk to the doorway next to the bedroom. Walk straight to the shower door. ",
+            "Go through the open doorway near the bed. continue through the bathroom until you reach the thermostat near the shower. "
+        ],
+        "goals": [
+            "I am in the bedroom and want to navigate to the bathroom and wait at the toilet.",
+            "I am at the doorway next to the bedroom and want to navigate to the shower door.",
+            "I am in the bedroom and want to navigate to the thermostat near the shower in the bathroom."
+        ]
+    },
+    {
+        "distance": 5.61,
+        "scan": "17DRP5sb8fy",
+        "path_id": 2223,
+        "path": [
+            "e0ce09f0178c48e2bbe649d2bf659702",
+            "1e86968849944444b66d9537efb5da9e",
+            "51857544c192476faebf212acb1b3d90",
+            "e34dcf54d26a4a95869cc8a0c01cd2be",
+            "0f37bd0737e349de9d536263a4bdd60d"
+        ],
+        "heading": 5.865,
+        "instructions": [
+            "Exit the shower and go into the room then turn right to exit the bedroom. Head toward the beige couches and wait near the blue rug with the three round coffee tables. ",
+            "Exit shower to bedroom. turn right and enter living room. Stop at arching couch. ",
+            "Exit the shower into the bedroom on the left. Walk past the foot of the bed, to the right, and wait on the other side of the sliding door. "
+        ],
+        "goals": [
+            "I am in the shower and want to navigate to the living room and wait near the blue rug with the three round coffee tables.",
+            "I am in the bedroom and want to navigate to the living room and wait near the arching couch.",
+            "I am in the shower and want to navigate to the living room adjacent to the bedroom on the left and wait outside the sliding door."
+        ]
+    },
+    {
+        "distance": 8.24,
+        "scan": "17DRP5sb8fy",
+        "path_id": 6833,
+        "path": [
+            "77a1a11978b04e9cbf74914c98578ab8",
+            "b185432bf33645aca813ac2a961b4140",
+            "5e9f4f8654574e699480e90ecdd150c8",
+            "08c774f20c984008882da2b8547850eb",
+            "1a41339ece1846eda6a924cdb4c417dd",
+            "558ba0761bf24428b9cf91e60333ea25",
+            "00ebbf3782c64d74aaf7dd39cd561175"
+        ],
+        "heading": 2.96,
+        "instructions": [
+            "Walk forward in the direction of the dining room. Veer right, and go down the hall into the bathroom. Stop in front of the sink. ",
+            "Head to the left through the dining area, then veer right into the bathroom. Stop near the sink. ",
+            "Go straight and follow the bar, go to the right and continue through. Go to the bathroom and then stop by the sink. "
+        ],
+        "goals": [
+            "I am here and want to navigate from the current location to the bathroom in the hallway, stopping in front of the sink.",
+            "I am here and want to navigate from the dining area to the bathroom, stopping near the sink.",
+            "I am here and want to navigate through the bar area and continue to the bathroom, stopping by the sink."
+        ]
+    },
+    {
+        "distance": 5.16,
+        "scan": "17DRP5sb8fy",
+        "path_id": 7084,
+        "path": [
+            "51857544c192476faebf212acb1b3d90",
+            "1e86968849944444b66d9537efb5da9e",
+            "cb66d4266148455bbddf5d059a483711",
+            "8ccf449f599a4cd88648e1d0ff39fdd0",
+            "c341c46acf7044d1a712d622cbc94a27"
+        ],
+        "heading": 3.127,
+        "instructions": [
+            "Go in the left side door and go passed the sinks and stop in the doorway. ",
+            "Enter the en suite bathroom and stop in the doorway to the toilet. ",
+            "Enter the door on the left. Go forward and wait by the toilet. "
+        ],
+        "goals": [
+            "I want to navigate to the space past the sinks.",
+            "I want to navigate to the doorway for the toilet.",
+            "I want to navigate to the area with the toilet."
+        ]
+    },
+    {
+        "distance": 6.24,
+        "scan": "17DRP5sb8fy",
+        "path_id": 3014,
+        "path": [
+            "50c241453dfd45c1ba95b5d7191982ef",
+            "0f37bd0737e349de9d536263a4bdd60d",
+            "10c252c90fa24ef3b698c6f54d984c5c",
+            "77a1a11978b04e9cbf74914c98578ab8",
+            "b185432bf33645aca813ac2a961b4140",
+            "5e9f4f8654574e699480e90ecdd150c8",
+            "08c774f20c984008882da2b8547850eb"
+        ],
+        "heading": 3.093,
+        "instructions": [
+            "Walk out of the bedroom and into the living room, then walk straight until you get to the dining area and wait. ",
+            "Exit the bedroom, turn left and head forward past the living room area. Wait by the glass dining room table. ",
+            "Turn left at the end of the bed and keep walking straight until you reach three bar stools at a bar.  Stop behind the last bar stool. "
+        ],
+        "goals": [
+            "I want to navigate from the bedroom to the Dining area.",
+            "I want to navigate from the bedroom to the Glass dining room table near the living room.",
+            "I want to navigate from the bedroom to the Bar area behind the last bar stool."
+        ]
+    },
+    {
+        "distance": 5.34,
+        "scan": "17DRP5sb8fy",
+        "path_id": 6380,
+        "path": [
+            "08c774f20c984008882da2b8547850eb",
+            "5e9f4f8654574e699480e90ecdd150c8",
+            "b185432bf33645aca813ac2a961b4140",
+            "77a1a11978b04e9cbf74914c98578ab8",
+            "10c252c90fa24ef3b698c6f54d984c5c",
+            "0f37bd0737e349de9d536263a4bdd60d",
+            "e34dcf54d26a4a95869cc8a0c01cd2be"
+        ],
+        "heading": 1.474,
+        "instructions": [
+            "Walk forward past he living room, into the dining room. Stop in the doorway to the bedroom. ",
+            "Turn around and walk into the bedroom. Wait near the bed. ",
+            "Walk through the sitting room past the picture of the mermaid.  Stop right after the open door. "
+        ],
+        "goals": [
+            "I am in the living room and I want to navigate to the doorway of the bedroom.",
+            "I am in the bedroom and I want to navigate to near the bed.",
+            "I am in the sitting room and I want to navigate to right after the open door."
+        ]
+    },
+    {
+        "distance": 9.59,
+        "scan": "17DRP5sb8fy",
+        "path_id": 2496,
+        "path": [
+            "3577de361e1a46b1be544d37731bfde6",
+            "6800f98e9e67463e9928a4253253bc2f",
+            "51857544c192476faebf212acb1b3d90",
+            "1e86968849944444b66d9537efb5da9e",
+            "cb66d4266148455bbddf5d059a483711",
+            "8ccf449f599a4cd88648e1d0ff39fdd0",
+            "c341c46acf7044d1a712d622cbc94a27"
+        ],
+        "heading": 3.33,
+        "instructions": [
+            "Go straight then turn right. Pass the bed then turn left pass the shower on the right and the sink on the right and wait by the toilet. ",
+            "Go into the bathroom and stop in the doorway of the toilet room. ",
+            "Walk straight forward and then exit out the door to the right. Once out walk to the TV and then turn left. Walk into the last door on your left into the bathroom, Walk through the bathroom past the sinks and stop in front of the glass door. "
+        ],
+        "goals": [
+            "I want to navigate from the current location to the toilet in the bedroom.",
+            "I want to navigate to the doorway of the toilet room in the bathroom.",
+            "I want to navigate from the TV to the doorway on the left in the living room, then through the bathroom to the glass door."
+        ]
+    },
+    {
+        "distance": 6.72,
+        "scan": "17DRP5sb8fy",
+        "path_id": 790,
+        "path": [
+            "3577de361e1a46b1be544d37731bfde6",
+            "6800f98e9e67463e9928a4253253bc2f",
+            "77a1a11978b04e9cbf74914c98578ab8",
+            "b185432bf33645aca813ac2a961b4140",
+            "5e9f4f8654574e699480e90ecdd150c8",
+            "08c774f20c984008882da2b8547850eb"
+        ],
+        "heading": 3.33,
+        "instructions": [
+            "Move forward and turn left. Your goal is ahead, move forward until you reach it. ",
+            "Walk past the sofa and turn left, then walk straight. Stop and wait by the bar stools. ",
+            "Go behind the couch and turn left. Continue through the living room and wait in front the bar. "
+        ],
+        "goals": [
+            "I am here, want to go to the area just past the corner.",
+            "I am here, want to go past the sofa, through the corner, and wait by the bar stools.",
+            "I am here, want to go behind the couch, continue through the living room, and wait in front of the bar."
+        ]
+    },
+    {
+        "distance": 8.35,
+        "scan": "17DRP5sb8fy",
+        "path_id": 706,
+        "path": [
+            "f4d03f729dfc49068db327584455e975",
+            "85c23efeaecd4d43a7dcd5b90137179e",
+            "5efaa5e4a30e481f9dadc1bac5e56a21",
+            "7ad0b4e15c4f4cf38f56efbbcadfbf6a",
+            "da5fa65c13e643719a20cbb818c9a85d",
+            "08c774f20c984008882da2b8547850eb",
+            "5e9f4f8654574e699480e90ecdd150c8"
+        ],
+        "heading": 2.573,
+        "instructions": [
+            "Turn right walk out doorway. Turn right walk towards bathroom. Turn right walk past bathroom. Turn left, stop in front of bar stools. ",
+            "Walk out of the room and take a right. Take another right and then a left and wait at the counter next to the chairs. ",
+            "Walk forward with the couch on your left and exit the room through the door at the end. In the hallway take a right and another right into the dining room. In the dining room go straight and stop with the mirrored pillar on your right side. "
+        ],
+        "goals": [
+            "I am in the room and want to navigate to the bar stools in the hallway.",
+            "I am in the room and want to navigate to the counter next to the chairs in the hallway.",
+            "I am in the room and want to navigate to the dining room with the mirrored pillar on the right side."
+        ]
+    },
+    {
+        "distance": 7.25,
+        "scan": "17DRP5sb8fy",
+        "path_id": 3070,
+        "path": [
+            "df211c2c55f94b87a717ce1469577456",
+            "3577de361e1a46b1be544d37731bfde6",
+            "6800f98e9e67463e9928a4253253bc2f",
+            "77a1a11978b04e9cbf74914c98578ab8",
+            "b185432bf33645aca813ac2a961b4140",
+            "5e9f4f8654574e699480e90ecdd150c8"
+        ],
+        "heading": 3.639,
+        "instructions": [
+            "Turn so the wall is on your right and the furniture is on your left. Then go forward until you're past the furniture. Turn left and move forward until you're next to the kitchen pass through on your right. ",
+            "Go behind the couch to the right.  Turn left and in front of the couch toward the barstools.  Stop next to the kitchen island and barstools. ",
+            "Go to the lamp. Go to the painting. Go to the round table. Go to the blue pillow. Go to the glass table. "
+        ],
+        "goals": [
+            "I am here and want to navigate to the Hallway past the kitchen.",
+            "I am behind the couch and want to navigate to the kitchen island and barstools.",
+            "I am here and want to navigate to the glass table past the furniture arrangement."
+        ]
+    },
+    {
+        "distance": 5.16,
+        "scan": "17DRP5sb8fy",
+        "path_id": 5692,
+        "path": [
+            "c341c46acf7044d1a712d622cbc94a27",
+            "8ccf449f599a4cd88648e1d0ff39fdd0",
+            "cb66d4266148455bbddf5d059a483711",
+            "1e86968849944444b66d9537efb5da9e",
+            "51857544c192476faebf212acb1b3d90"
+        ],
+        "heading": 4.581,
+        "instructions": [
+            "Walk out of the bathroom and turn right. Stop in front of the bed. ",
+            "Go straight past the sink and the shower and exit the bathroom. Turn right and wait near the bed. ",
+            "Exit the bathroom.Turn right. Wait next to the foot of the bed. "
+        ],
+        "goals": [
+            "I want to navigate from the bathroom to the bedroom, stopping in front of the bed.",
+            "I want to navigate from the bathroom to the bedroom, continuing straight past the sink and shower.",
+            "I want to navigate from the bathroom to the bedroom, stopping at the foot of the bed."
+        ]
+    },
+    {
+        "distance": 7.51,
+        "scan": "17DRP5sb8fy",
+        "path_id": 4010,
+        "path": [
+            "c341c46acf7044d1a712d622cbc94a27",
+            "8ccf449f599a4cd88648e1d0ff39fdd0",
+            "cb66d4266148455bbddf5d059a483711",
+            "1e86968849944444b66d9537efb5da9e",
+            "51857544c192476faebf212acb1b3d90",
+            "e34dcf54d26a4a95869cc8a0c01cd2be",
+            "0f37bd0737e349de9d536263a4bdd60d"
+        ],
+        "heading": 4.581,
+        "instructions": [
+            "walk towards robe, through doorway, turn right towards bed, turn right and stop in doorway. ",
+            "Exit bathroom turn right and enter bedroom. Turn right and stand next to curved couch. ",
+            "Walk forward and exit the bathroom. Once you exit, turn right and enter the bedroom. Once you reach the bed, walk to the right side of the bed and exit our the door on the right. Stop once you enter and are facing the sitting room. "
+        ],
+        "goals": [
+            "I am in the current room and want to navigate to the doorway of the bedroom.",
+            "I am in the bathroom and want to navigate to the curved couch in the bedroom.",
+            "I am in the bathroom and want to navigate to the sitting room on the right side of the bedroom."
+        ]
+    },
+    {
+        "distance": 5.22,
+        "scan": "17DRP5sb8fy",
+        "path_id": 1165,
+        "path": [
+            "0e92a69a50414253a23043758f111cec",
+            "b2e9278f9b8f4661abcb0446d2cbb98e",
+            "da5fa65c13e643719a20cbb818c9a85d",
+            "08c774f20c984008882da2b8547850eb",
+            "5e9f4f8654574e699480e90ecdd150c8"
+        ],
+        "heading": 1.542,
+        "instructions": [
+            "Walk through the door. Turn left. Walk past the table. Turn left. Stop next to the bar stools. ",
+            "Go straight and then turn to the left, walk between the pillar and the island.  Head towards the living room. Wait in front of the tables by the couch. ",
+            "Walk out of the kitchen with the sink on your left. Turn around and walk into the dining room. Stop behind the middle bench on the breakfast bar. "
+        ],
+        "goals": [
+            "I am in the kitchen and want to navigate to the adjacent room past the table and stop next to the bar stools.",
+            "I am at the starting point and want to navigate to the living room, passing between the pillar and the island, and stop in front of the tables by the couch.",
+            "I am inside the kitchen with the sink on my left and want to navigate to the dining room, stopping behind the middle bench on the breakfast bar."
+        ]
+    },
+    {
+        "distance": 8.18,
+        "scan": "17DRP5sb8fy",
+        "path_id": 378,
+        "path": [
+            "d65b6505904448d1940e679c9a098047",
+            "701f7128272a4bb2acd9dbd89b5cdf6f",
+            "c429b363fd3145fe8a7631bbe9644066",
+            "da5fa65c13e643719a20cbb818c9a85d",
+            "ee59d6b5e5da4def9fe85a8ba94ecf25",
+            "558ba0761bf24428b9cf91e60333ea25",
+            "00ebbf3782c64d74aaf7dd39cd561175"
+        ],
+        "heading": 1.616,
+        "instructions": [
+            "Walk past the dining table and take a left into the hallway. In the hallway walk into the bathroom and stop on the rug. ",
+            "Walk straight down the wall.  At the entry way, turn left.  Walk to the bathroom and wait inside the bathroom door. ",
+            "Walk towards the kitchen area. Turn left and walk inside the bathroom. "
+        ],
+        "goals": [
+            "I am in the living room and want to go to the bathroom on the rug.",
+            "I am at the start of the wall and want to go to the bathroom door.",
+            "I am in the kitchen area and want to go to the bathroom."
+        ]
+    },
+    {
+        "distance": 6.96,
+        "scan": "17DRP5sb8fy",
+        "path_id": 1945,
+        "path": [
+            "d65b6505904448d1940e679c9a098047",
+            "701f7128272a4bb2acd9dbd89b5cdf6f",
+            "c429b363fd3145fe8a7631bbe9644066",
+            "1a41339ece1846eda6a924cdb4c417dd",
+            "abe20dd6e5194f579dfc6b63a612c150"
+        ],
+        "heading": 1.616,
+        "instructions": [
+            "Walk to left of the dinning table and make a right at the end of the table and another right and walk to the middle of the table and wait there. ",
+            "go straight beside the table, turn right at the end of the table, go straight and turn right beside the table and walk straight beside the table. ",
+            "Walk past the dining room table and chairs and turn right. Turn right and stop by the Dining room table and chairs. "
+        ],
+        "goals": [
+            "I want to navigate from the current location to the middle of the dinning table and wait there.",
+            "I want to navigate from the current location to the center of the room by following the table and then arrive at the middle of the table.",
+            "I want to navigate from the current location to the Dining room table and chairs and stop there."
+        ]
+    },
+    {
+        "distance": 5.11,
+        "scan": "17DRP5sb8fy",
+        "path_id": 2464,
+        "path": [
+            "f4d03f729dfc49068db327584455e975",
+            "85c23efeaecd4d43a7dcd5b90137179e",
+            "5efaa5e4a30e481f9dadc1bac5e56a21",
+            "7ad0b4e15c4f4cf38f56efbbcadfbf6a",
+            "558ba0761bf24428b9cf91e60333ea25"
+        ],
+        "heading": 2.573,
+        "instructions": [
+            "Exit the room and turn left into the bathroom. ",
+            "Walk out of the theater and take a left. Stop in the doorway to the bathroom. ",
+            "Walk forward and out the door straight ahead. Once out, turn left and then enter the bathroom door on the left. Stop in the doorway. "
+        ],
+        "goals": [
+            "I want to navigate to the bathroom from the current room.",
+            "I want to navigate to the doorway to the bathroom from the theater.",
+            "I want to navigate to the doorway to the bathroom from the outside door."
+        ]
+    },
+    {
+        "distance": 5.73,
+        "scan": "17DRP5sb8fy",
+        "path_id": 1901,
+        "path": [
+            "0e92a69a50414253a23043758f111cec",
+            "b2e9278f9b8f4661abcb0446d2cbb98e",
+            "ee59d6b5e5da4def9fe85a8ba94ecf25",
+            "558ba0761bf24428b9cf91e60333ea25",
+            "00ebbf3782c64d74aaf7dd39cd561175"
+        ],
+        "heading": 1.542,
+        "instructions": [
+            "Exit the wet bar, walk straight ahead and wait in the bathroom at the end. ",
+            "Walk forward into the bathroom. Wait near the sink. ",
+            "Walk straight into the bathroom and stop in front of the sink. "
+        ],
+        "goals": [
+            "I am currently in the wet bar and want to navigate to the bathroom at the end.",
+            "I am currently in the bathroom and want to navigate to the area near the sink.",
+            "I am currently in the bathroom and want to navigate to the area in front of the sink."
+        ]
+    },
+    {
+        "distance": 6.2,
+        "scan": "17DRP5sb8fy",
+        "path_id": 2403,
+        "path": [
+            "f4d03f729dfc49068db327584455e975",
+            "85c23efeaecd4d43a7dcd5b90137179e",
+            "5efaa5e4a30e481f9dadc1bac5e56a21",
+            "7ad0b4e15c4f4cf38f56efbbcadfbf6a",
+            "558ba0761bf24428b9cf91e60333ea25",
+            "00ebbf3782c64d74aaf7dd39cd561175"
+        ],
+        "heading": 2.573,
+        "instructions": [
+            "Go between the two tables and through the doorway and go to your left to the sink. ",
+            "Walk out of the door with the round mirror towards a dresser, and walk into the bathroom. ",
+            "Exit the room, turn left, enter the bathroom, and stop in front of the sink. "
+        ],
+        "goals": [
+            "I want to navigate from the current scene to the sink area in the adjacent room.",
+            "I want to navigate from the room with the round mirror to the bathroom and the sink.",
+            "I want to navigate from the current scene to the bathroom sink."
+        ]
+    },
+    {
+        "distance": 6.28,
+        "scan": "17DRP5sb8fy",
+        "path_id": 4487,
+        "path": [
+            "d65b6505904448d1940e679c9a098047",
+            "701f7128272a4bb2acd9dbd89b5cdf6f",
+            "c429b363fd3145fe8a7631bbe9644066",
+            "da5fa65c13e643719a20cbb818c9a85d",
+            "7ad0b4e15c4f4cf38f56efbbcadfbf6a"
+        ],
+        "heading": 1.616,
+        "instructions": [
+            "Walk across living room, turn left and enter super cool theater room. ",
+            "Walk towards kitchen.  Turn left into hallway.  Enter first door on left.  Wait by gold cushions. ",
+            "Walk straight past the glass table with white chairs then turn left and go into the room on the left. Wait at the entrance. "
+        ],
+        "goals": [
+            "I want to navigate to the Super Cool Theater Room from the Living Room.",
+            "I want to navigate to the first door on the left from the hallway after entering from the kitchen.",
+            "I want to navigate to the room on the left from the hallway, past the glass table with white chairs."
+        ]
+    },
+    {
+        "distance": 6.74,
+        "scan": "17DRP5sb8fy",
+        "path_id": 3109,
+        "path": [
+            "3577de361e1a46b1be544d37731bfde6",
+            "6800f98e9e67463e9928a4253253bc2f",
+            "51857544c192476faebf212acb1b3d90",
+            "1e86968849944444b66d9537efb5da9e",
+            "cb66d4266148455bbddf5d059a483711"
+        ],
+        "heading": 3.33,
+        "instructions": [
+            "walk behind couch to bedroom on right, in front of couch turn left and enter bathroom,  stop at vanity mirror. ",
+            "Walk away from the light and out from behind the couch. Turn right and walk past the bed turn left to face the couch and walk through the doorway on the left into the bathroom. Stop before you walk past the vanity. ",
+            "Walk out from behind the couch and into the bedroom on the right. Wait inside the en suite bathroom. "
+        ],
+        "goals": [
+            "I am in the living room and want to navigate to the bedroom on the right and then to the bathroom to stop at the vanity mirror.",
+            "I am in the living room behind the couch and want to navigate to the bathroom on the left, facing the couch, to stop just before the vanity.",
+            "I am in the living room and want to navigate to the bedroom on the right and then to the en suite bathroom to wait."
+        ]
+    },
+    {
+        "distance": 5.58,
+        "scan": "17DRP5sb8fy",
+        "path_id": 6967,
+        "path": [
+            "85c23efeaecd4d43a7dcd5b90137179e",
+            "5efaa5e4a30e481f9dadc1bac5e56a21",
+            "7ad0b4e15c4f4cf38f56efbbcadfbf6a",
+            "da5fa65c13e643719a20cbb818c9a85d",
+            "c429b363fd3145fe8a7631bbe9644066"
+        ],
+        "heading": 2.552,
+        "instructions": [
+            "Exit the room, and turn right.  Immediately turn right and walk towards the long glass table.  Wait here. ",
+            "Leave the theater, and take a right. Stop next to the first dining room chair. ",
+            "Exit the room. Turn right. Turn right again. Wait near the glass table with the white chairs. "
+        ],
+        "goals": [
+            "I am in the current room and want to navigate to the Hallway past the long glass table.",
+            "I am in the theater and want to navigate to the first dining room chair on the right.",
+            "I am in the current room and want to navigate to the Hallway near the glass table with white chairs."
+        ]
+    },
+    {
+        "distance": 6.19,
+        "scan": "17DRP5sb8fy",
+        "path_id": 3693,
+        "path": [
+            "db145474a5fa476d95c2cc7f09e7c83a",
+            "5b9b2794954e4694a45fc424a8643081",
+            "51857544c192476faebf212acb1b3d90",
+            "e34dcf54d26a4a95869cc8a0c01cd2be",
+            "0f37bd0737e349de9d536263a4bdd60d"
+        ],
+        "heading": 4.61,
+        "instructions": [
+            "Walk into the bedroom, around the bed, and stop right next to the open doorway. ",
+            "Walk around the bed and to the bathroom. Stop on the other side of the sliding door. ",
+            "Go straight and pass the bed. Then go left and exit the room. Wait by the beige couches. "
+        ],
+        "goals": [
+            "I am in the bedroom, around the bed, and want to navigate to the open doorway.",
+            "I am in the bedroom, around the bed, and want to navigate to the bathroom, to the other side of the sliding door.",
+            "I am in the bedroom, want to navigate to the hallway, past the bed, and exit the room, waiting by the beige couches."
+        ]
+    }
+]

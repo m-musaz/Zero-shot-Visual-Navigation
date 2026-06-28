@@ -1,0 +1,48 @@
+//Run docker desktop
+
+//run WSL
+
+wsl
+
+//make sure you are in Matterport3DSimulator folder
+
+else:
+cd Matterport3dSim/Matterport3DSimulator
+
+export MATTERPORT_DATA_DIR=$(pwd)/matterportdata
+
+xhost +
+docker run -it --gpus all \
+  -e DISPLAY \
+-e "QT_X11_NO_MITSHM=1" \
+  -v /tmp/.X11-unix:/tmp/.X11-unix \
+  --mount type=bind,source=$MATTERPORT_DATA_DIR,target=/mnt/c/Users/IST/Desktop/matterport/Matterport3DSimulator/matterportdata,readonly \
+  --volume $(pwd):/matterportdata \
+  mattersim:9.2-devel-ubuntu18.04
+
+//now you are in the docker container
+
+cd matterportdata
+
+cp /matterportdata/build/MatterSim.cpython-36m-x86_64-linux-gnu.so /usr/local/lib/python3.6/dist-packages/
+
+//install requests
+pip3 install requests unidecode
+
+//command to run simulator
+
+python3 src/driver/driver.py
+
+----------------------------------------------------------------------------------
+
+//steps to run flask server (in normal pc not on docker or wsl)
+
+open integrated terminal by right clicking on server.py 
+i.e ensure in terminal you are here:  PS C:\Users\IST\Desktop\matterport\Matterport3DSimulator\src\driver>
+or run this command: 
+cd Matterport3dSim/Matterport3DSimulator/src/driver 
+
+
+then run these commands one by one: 
+venv\Scripts\activate
+python server.py

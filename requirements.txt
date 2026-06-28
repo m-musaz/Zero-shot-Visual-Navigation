@@ -1,0 +1,10 @@
+flask
+transformers
+torch
+pillow
+numpy
+opencv-python-headless
+langchain
+langchain_groq
+python-dotenv
+pytesseract
